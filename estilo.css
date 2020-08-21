@@ -1,0 +1,14 @@
+body {
+    background-image: url('background-principal.jpg');
+    background-size: 100%;
+    background-position: initial;
+}
+
+#imgMetamask {
+    height: 15%;
+    width: 15%;
+}
+
+.boxStatusTransacoes {
+    padding: 20px;
+}
